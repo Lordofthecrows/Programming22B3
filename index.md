@@ -10,8 +10,11 @@ OOP solution for a collision based 2d shooter.
 * Source Code for Application
 
 ### Calculator
-Fully functional calculator conatining basic functions
+OOP solution for a graphics based calculator.
 
+![Calculator]()
+
+* Source code for Application
 ### Screen Saver
 
 ### Timeline
