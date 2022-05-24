@@ -22,3 +22,15 @@ OOP solution for a graphics based calculator.
 ## Python Projects
 
 ### Shape Tester
+OOP solution to create a user interactive shape-creation application.
+* Screen capture for Shape Tester
+* ![Uploading Screen Shot 2022-05-24 at 11.57.58 AM.png…]()
+* Source Code for Applictaion
+* ![https://replit.com/@ZACHARYPOULSON/DelayedOrderlyConsultant#main.py]()
+
+### Text based Adventure Game
+OOP solution to code a python, text based adventure game called "Swampland".
+* Screen capture for "Swampland"
+* ![Swampland]()
+* Source Code for Application
+* ![https://github.com/foolbuffoon/T4Project/tree/main/src]()
